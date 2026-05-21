@@ -21,3 +21,4 @@ nengo communication_channel.py
 ## License
 
 GPLv2 (see `LICENSE`).
+__adding another spoocy test line
