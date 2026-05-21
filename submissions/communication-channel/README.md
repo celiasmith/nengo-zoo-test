@@ -21,3 +21,5 @@ nengo communication_channel.py
 ## License
 
 GPLv2 (see `LICENSE`).
+"" 
+"_Test edit: verifying version-bump enforcement._" 
