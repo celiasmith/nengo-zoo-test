@@ -44,3 +44,10 @@ paper:
 
 entry_point: lmu.py
 discussion: 23
+
+zenodo:
+  concept_recid: 503568
+  concept_doi: "10.5072/zenodo.503568"
+  version_doi: "10.5072/zenodo.503569"
+  version_recid: 503569
+  version: "0.1.0"
